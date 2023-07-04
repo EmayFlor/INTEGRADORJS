@@ -1,0 +1,421 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital@0;1&display=swap');
+
+html{
+    scroll-behavior: smooth;
+}
+/*.codo{
+    background-color: #373c3c;
+    border-color: #373c3c;
+    background-size: auto;
+    font-family: 'Ubuntu', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.codo .conf{
+    float: left;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    color: rgb(255, 255, 255);
+}
+
+.codo .cac{
+  height: 50px;
+  width: 80px;
+  margin-top: 1%;
+  margin-bottom: 1%;
+}
+
+.codo .botones {
+    margin-top: 2%;
+    margin-bottom: 2%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20%;
+    float: right;
+}
+
+.Tickets{
+color: greenyellow;    
+font-size: medium;
+}
+*/
+#casarosada {
+    position: relative;
+    display: inline-block;
+    text-align: center;
+}
+
+#casarosada #casa{
+    width: 75%;
+}
+
+.texto-encima{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+
+#centrado {
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
+}
+
+#casarosada #parrafo{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: right;
+    font-size:x-large;
+    position: inherit;
+}
+
+.casarosada .botonQ{
+    float: right;
+}
+
+.oradores{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.cuadro{
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+}
+
+.cuadro .lostres .fila .steve .job{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 200px;
+    width: 250px;;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.cuadro .lostres .fila .gates .bill{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 200px;
+    width: 250px;;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+
+.cuadro .lostres .fila .ada .love{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 200px;
+    width: 250px;;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+
+.playa{
+    display: flex;
+    justify-content: center;
+
+}
+.playa .seccion3{
+    width: 100%;
+}
+
+.playa .seccion3 .agua{
+    width: 100%;
+}
+
+.playa .seccion3 .vaca{
+    background-color: #373c3c;
+    width: 100%;
+    height: 50%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: aliceblue;
+}
+
+.oradores2{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.codo2{
+    background-color: #152d47;
+    display: flex;
+    justify-content: center;
+    background-size: cover;
+}
+
+.codo2 .botones2 .bot1{
+        background-color: #007bff00;
+        padding: .375rem .75rem;
+        border: 1px solid #0d6bd0;
+        border-radius: .25rem;
+        color: #007bff;
+        transition: color .15s ease-in-out,
+        background-color .15s ease-in-out;
+}
+
+.codo2 .botones2 .bot2{
+    background-color: #007bff00;
+    padding: .375rem .75rem;
+    border: 1px solid #0d6bd0;
+    border-radius: .25rem;
+    color: #007bff;
+    transition: color .15s ease-in-out,
+    background-color .15s ease-in-out;
+}
+
+.codo2 .botones2 .bot3{
+    background-color: #007bff00;
+    padding: .375rem .75rem;
+    border: 1px solid #0d6bd0;
+    border-radius: .25rem;
+    color: #007bff;
+    transition: color .15s ease-in-out,
+    background-color .15s ease-in-out;
+}
+
+.codo2 .botones2 .bot4{
+    background-color: #007bff00;
+    padding: .375rem .75rem;
+    border: 1px solid #0d6bd0;
+    border-radius: .25rem;
+    color: #007bff;
+    transition: color .15s ease-in-out,
+    background-color .15s ease-in-out;
+}
+
+.codo2 .botones2 .bot5{
+    background-color: #007bff00;
+    padding: .375rem .75rem;
+    border: 1px solid #0d6bd0;
+    border-radius: .25rem;
+    color: #007bff;
+    transition: color .15s ease-in-out,
+    background-color .15s ease-in-out;
+}
+
+.codo2 .botones2 .bot6{
+    background-color: #007bff00;
+    padding: .375rem .75rem;
+    border: 1px solid #0d6bd0;
+    border-radius: .25rem;
+    color: #007bff;
+    transition: color .15s ease-in-out,
+    background-color .15s ease-in-out;
+}
+
+.codo2 .botones2 .bot7{
+    background-color: #007bff00;
+    padding: .375rem .75rem;
+    border: 1px solid #0d6bd0;
+    border-radius: .25rem;
+    color: #007bff;
+    transition: color .15s ease-in-out,
+}
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    margin: 0;
+	padding: 0;
+	font-family: Helvetica, Arial, sans-serif;
+	color: #666;
+	background: #f2f2f2; 
+	font-size: 1em;
+	line-height: 1.5em;
+}
+
+#header{
+    background-color: #373c3c;
+    border-color: #373c3c;
+    background-size: auto;
+    font-family: 'Ubuntu', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+#header .conf{
+    float: left;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    color: rgb(255, 255, 255);
+}
+
+#header .botones {
+    margin-top: 2%;
+    margin-bottom: 2%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20%;
+    float: right;
+    
+}
+
+#header .botones .LACONFERENCIA{
+    background-color: #007bff00;
+    padding: .375rem .75rem;
+    border: 1px solid #0d6bd0;
+    border-radius: .25rem;
+    color: #9ea1a4;
+    transition: color .15s ease-in-out;
+    background-color: .15s ease-in-out;
+}
+
+#header .botones .Oradores{
+background-color: #007bff00;
+padding: .375rem .75rem;
+border: 1px solid #0d6bd0;
+border-radius: .25rem;
+color: #9ea1a4;
+transition: color .15s ease-in-out;
+background-color: .15s ease-in-out;
+}
+
+#header .botones .Lugar{
+background-color: #007bff00;
+padding: .375rem .75rem;
+border: 1px solid #0d6bd0;
+border-radius: .25rem;
+color: #9ea1a4;
+transition: color .15s ease-in-out;
+background-color: .15s ease-in-out;
+}
+
+#header .botones .CONVERSION{
+background-color: #007bff00;
+padding: .375rem .75rem;
+border: 1px solid #0d6bd0;
+border-radius: .25rem;
+color: #ffffff;
+transition: color .15s ease-in-out;
+background-color: .15s ease-in-out;
+}
+
+#header .botones .Tickets{
+background-color: #007bff00;
+padding: .375rem .75rem;
+border: 1px solid #000000;
+border-radius: .25rem;
+color: #15ff00;
+transition: color .15s ease-in-out;
+background-color: .15s ease-in-out;
+}
+
+.pr #dos{
+    font-size: larger;
+    color: #0d6bd0;
+}
+
+#nivel{
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+}
+
+#nivel .lostres .fila .ESTUDIANTE{
+    height: 200px;
+    width: 250px;;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    text-align: center;
+    border: 4px solid rgb(44, 25, 111);
+}
+
+#nivel .lostres .fila .TRAINEE{
+    height: 200px;
+    width: 250px;;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    text-align: center;
+    border: 4px solid rgb(88, 125, 146);
+}
+
+#nivel .lostres .fila .JUNIOR{
+    height: 200px;
+    width: 250px;;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    text-align: center;
+    border: 4px solid rgb(33, 168, 53);
+}
+
+.codo2{    
+    margin-top: 2%;
+    margin-bottom: 2%;
+    background-color: #152d47;
+    display: flex;
+    justify-content: center;
+    height: 80px;
+   
+}
+
+.codo2 .botones2 .bot1{
+        background-color: #007bff00;
+        padding: .375rem .75rem;
+        border: 1px solid #0d6bd0;
+        border-radius: .25rem;
+        color: #007bff;
+        transition: color .15s ease-in-out;
+        background-color: .15s ease-in-out;
+}
+
+.codo2 .botones2 .bot2{
+    background-color: #007bff00;
+    padding: .375rem .75rem;
+    border: 1px solid #0d6bd0;
+    border-radius: .25rem;
+    color: #007bff;
+    transition: color .15s ease-in-out;
+    background-color: .15s ease-in-out;
+}
+
+.codo2 .botones2 .bot3{
+    background-color: #007bff00;
+    padding: .375rem .75rem;
+    border: 1px solid #0d6bd0;
+    border-radius: .25rem;
+    color: #007bff;
+    transition: color .15s ease-in-out;
+    background-color: .15s ease-in-out;
+}
+
+.codo2 .botones2 .bot4{
+    background-color: #007bff00;
+    padding: .375rem .75rem;
+    border: 1px solid #0d6bd0;
+    border-radius: .25rem;
+    color: #007bff;
+    transition: color .15s ease-in-out;
+    background-color: .15s ease-in-out;
+}
+
+.codo2 .botones2 .bot5{
+    background-color: #007bff00;
+    padding: .375rem .75rem;
+    border: 1px solid #0d6bd0;
+    border-radius: .25rem;
+    color: #007bff;
+    transition: color .15s ease-in-out;
+    background-color: .15s ease-in-out;
+}
+
+.codo2 .botones2 .bot6{
+    background-color: #007bff00;
+    padding: .375rem .75rem;
+    border: 1px solid #0d6bd0;
+    border-radius: .25rem;
+    color: #007bff;
+    transition: color .15s ease-in-out;
+    background-color: .15s ease-in-out;
+}
+
+.codo2 .botones2 .bot7{
+    background-color: #007bff00;
+    padding: .375rem .75rem;
+    border: 1px solid #0d6bd0;
+    border-radius: .25rem;
+    color: #007bff;
+    transition: color .15s ease-in-out;
+    background-color: .15s ease-in-out;
+}
